@@ -1,4 +1,4 @@
-# Berlin-Clock
+# Berlin-Clock / Mengenlehreuhr
 
 This project recreates the classic Berlin Clock (Mengenlehreuhr) in Python using Pygame.
 
